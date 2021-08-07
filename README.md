@@ -1,6 +1,5 @@
 # Handwritten_Digit_Recognition with tensorflow and CNN
- **Dataset** = MNIST Dataset i.e Modified National Institute of Standards and Technology database
- -**Model** = Sequential
+ **Dataset** = MNIST Dataset i.e Modified National Institute of Standards and Technology database <br/>**Model** = Sequential
  
  Model Setup Steps:
  - Three Convolution layers for better feature extraction

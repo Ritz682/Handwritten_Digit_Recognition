@@ -11,4 +11,4 @@
  
  Testing Model with Testing Dataset(MNIST Testing Dataset)
  
- Testing Model with Own Handwritten Dataset
+ Testing Model with Own Handwritten Digit Data

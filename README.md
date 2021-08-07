@@ -4,6 +4,7 @@
  
  Model Setup Steps:
      Three Convolution layers for better feature extraction
+					jgj
      Activation Function Layer (ReLU Function)
      Pooling Layer (MaxPooling)
      Flatten Layer

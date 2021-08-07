@@ -2,8 +2,7 @@
  Dataset= MNIST Dataset i.e Modified National Institute of Standards and Technology database
  Model = Sequential
  
- Model Setup Steps:
-     * Three Convolution layers for better feature extraction
+ Model Setup Steps:*Three Convolution layers for better feature extraction
      Activation Function Layer (ReLU Function)
      Pooling Layer (MaxPooling)
      Flatten Layer

@@ -3,7 +3,7 @@
  Model = Sequential
  
  Model Setup Steps:
-     \n Three Convolution layers for better feature extraction
+     * Three Convolution layers for better feature extraction
      Activation Function Layer (ReLU Function)
      Pooling Layer (MaxPooling)
      Flatten Layer
